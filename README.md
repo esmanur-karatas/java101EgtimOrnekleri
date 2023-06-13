@@ -11,6 +11,9 @@ Lütfen dikkatli bir şekilde gözden geçirerek alıştırmalarımı inceleyin 
 
 Teşekkürler!"
 
+<img width="412" alt="image" src="https://github.com/esmanur-karatas/java101EgtimOrnekleri/assets/83882274/5ddd534a-5fb7-4ef1-8a52-1dcb5b64578c">
+
+
 
 
 
